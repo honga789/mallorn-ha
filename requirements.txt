@@ -1,0 +1,25 @@
+# Core dependencies for Astromer TDE Classification
+tensorflow==2.14
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+
+# Astromer dependencies
+extinction==0.4.7
+optuna
+catboost
+toml
+tqdm
+joblib
+
+# Notebook support
+jupyter
+ipykernel
+ipywidgets
+
+# Optional but useful
+polars==0.20.10
+mlflow
+gdown
